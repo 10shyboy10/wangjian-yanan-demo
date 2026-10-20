@@ -1,0 +1,148 @@
+{
+  "files": [
+    {
+      "file": ".nojekyll",
+      "bytes": 0
+    },
+    {
+      "file": "assets/index-CbhsPN6i.js",
+      "bytes": 3706346
+    },
+    {
+      "file": "assets/index-CbStDgWH.css",
+      "bytes": 13112
+    },
+    {
+      "file": "assets/LegacyPrototype-QjCAK6u1.js",
+      "bytes": 33795
+    },
+    {
+      "file": "environment/sky-2k.hdr",
+      "bytes": 5451493
+    },
+    {
+      "file": "evidence/zaoyuan-evidence.json",
+      "bytes": 13009
+    },
+    {
+      "file": "index.html",
+      "bytes": 468
+    },
+    {
+      "file": "licenses/refinement-assets.json",
+      "bytes": 5502
+    },
+    {
+      "file": "licenses/Rocketbox-MIT.txt",
+      "bytes": 1066
+    },
+    {
+      "file": "licenses/site-assets.json",
+      "bytes": 5057
+    },
+    {
+      "file": "licenses/third-party-assets.json",
+      "bytes": 2028
+    },
+    {
+      "file": "models/colliders.json",
+      "bytes": 13379
+    },
+    {
+      "file": "models/inspect_bed.glb",
+      "bytes": 2580484
+    },
+    {
+      "file": "models/inspect_desk.glb",
+      "bytes": 11634492
+    },
+    {
+      "file": "models/inspect_washstand.glb",
+      "bytes": 581916
+    },
+    {
+      "file": "models/inspect_window.glb",
+      "bytes": 1061936
+    },
+    {
+      "file": "models/site_tree_far.glb",
+      "bytes": 3206692
+    },
+    {
+      "file": "models/site_tree_near.glb",
+      "bytes": 18622688
+    },
+    {
+      "file": "models/site-tree-layout.json",
+      "bytes": 79879
+    },
+    {
+      "file": "models/textures/bedroom-irradiance.exr",
+      "bytes": 10155861
+    },
+    {
+      "file": "models/textures/hall-irradiance.exr",
+      "bytes": 27770564
+    },
+    {
+      "file": "models/textures/office-irradiance.exr",
+      "bytes": 10765286
+    },
+    {
+      "file": "models/visitor-realistic.glb",
+      "bytes": 4816724
+    },
+    {
+      "file": "models/yangjialing_exterior.glb",
+      "bytes": 13641536
+    },
+    {
+      "file": "models/yangjialing_hall.glb",
+      "bytes": 65487220
+    },
+    {
+      "file": "models/yangjialing_lettering.glb",
+      "bytes": 26316584
+    },
+    {
+      "file": "models/yangjialing-colliders.json",
+      "bytes": 10825
+    },
+    {
+      "file": "models/zaoyuan_bedroom.glb",
+      "bytes": 22688656
+    },
+    {
+      "file": "models/zaoyuan_exterior.glb",
+      "bytes": 22758272
+    },
+    {
+      "file": "models/zaoyuan_guest.glb",
+      "bytes": 884080
+    },
+    {
+      "file": "models/zaoyuan_office.glb",
+      "bytes": 23950516
+    },
+    {
+      "file": "models/zaoyuan_surroundings.glb",
+      "bytes": 21054144
+    },
+    {
+      "file": "README.md",
+      "bytes": 404
+    },
+    {
+      "file": "references/site/sources.json",
+      "bytes": 3553
+    },
+    {
+      "file": "surface-version.json",
+      "bytes": 211
+    }
+  ],
+  "totalBytes": 297317778,
+  "models": 15,
+  "referencePhotosIncluded": 0,
+  "sourceLinksRetained": true
+}

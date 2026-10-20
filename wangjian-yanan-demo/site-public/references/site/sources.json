@@ -1,0 +1,73 @@
+{
+  "updated": "2026-10-18",
+  "photos": [
+    {
+      "id": "sohu-2024-mao-courtyard.jpg",
+      "title": "毛泽东旧居：五孔外立面、门前树池与屋后林冠",
+      "url": "https://q2.itc.cn/images01/20240712/de7b6504856d4f638c3870c68bcedc31.jpeg",
+      "source": "https://www.sohu.com/a/792876284_428863",
+      "articleDate": "2024-07-12",
+      "visitDateStatedInArticle": "2024-06-22",
+      "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
+      "license": "未取得再发布授权；仅本地研究参考",
+      "usage": "用于旧居院落可见植被与铺装参考",
+      "publicationNote": "Reference image omitted; original source link retained."
+    },
+    {
+      "id": "sohu-2024-hillside.jpg",
+      "title": "枣园园区：幸福渠、园路、树木与草地",
+      "url": "https://q3.itc.cn/images01/20240712/bc45f4a3d2244b4e89c44d7675b8a15a.jpeg",
+      "source": "https://www.sohu.com/a/792876284_428863",
+      "articleDate": "2024-07-12",
+      "visitDateStatedInArticle": "2024-06-22",
+      "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
+      "license": "未取得再发布授权；仅本地研究参考",
+      "usage": "仅园区绿化氛围参考，不能证明此处紧邻毛泽东旧居",
+      "publicationNote": "Reference image omitted; original source link retained."
+    },
+    {
+      "id": "sohu-2024-terraces.jpg",
+      "title": "枣园园区：五大书记雕像前的绿地",
+      "url": "https://q8.itc.cn/images01/20240712/7d92a5c290a3452bb29114fc4232a39a.jpeg",
+      "source": "https://www.sohu.com/a/792876284_428863",
+      "articleDate": "2024-07-12",
+      "visitDateStatedInArticle": "2024-06-22",
+      "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
+      "license": "未取得再发布授权；仅本地研究参考",
+      "usage": "仅园区植物与草地参考；本轮不复制雕像或推断相对距离",
+      "publicationNote": "Reference image omitted; original source link retained."
+    }
+  ],
+  "additionalSources": [
+    {
+      "title": "旧居院落及上山台阶文字说明",
+      "url": "https://shaanxi.weather.com.cn/lyqx/lyjd/04/869566.shtml",
+      "usage": "支持园林、坡地与上山参观关系；文章年代较早，不作为当前尺度测绘"
+    },
+    {
+      "title": "毛泽东旧居照片（2011）",
+      "url": "https://commons.wikimedia.org/wiki/File:枣园毛泽东旧居_Mao_Zedong's_House,_Zao_Yuan,_Yan_An_-_panoramio_(1).jpg",
+      "author": "wanghongliu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "downloaded": false,
+      "usage": "已核实文件页许可；原图下载超时，未用于视觉建模"
+    },
+    {
+      "title": "毛泽东旧居照片（2010上传）",
+      "url": "https://commons.wikimedia.org/wiki/File:枣园毛泽东旧居_Mao_Zedong's_House,_Zao_Yuan,_Yan_An_-_panoramio.jpg",
+      "author": "wanghongliu",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "downloaded": false,
+      "usage": "已核实文件页许可；原图下载超时，未用于视觉建模"
+    }
+  ],
+  "inferred": [
+    "树木精确位置与树种",
+    "遮挡区域的地形高度",
+    "院落前缘矮墙与下方园路",
+    "未获得完整环景和现场测绘"
+  ],
+  "assetManifest": "/licenses/site-assets.json"
+}

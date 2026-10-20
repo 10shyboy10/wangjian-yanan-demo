@@ -1,0 +1,259 @@
+{
+  "title": "枣园毛泽东旧居：模型证据登记",
+  "updated": "2026-10-19",
+  "units": "metres",
+  "surveyed": false,
+  "layout": {
+    "description": "面对建筑从右向左：会客室、办公室、寝室、两孔工作人员住室",
+    "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e"
+  },
+  "items": [
+    {
+      "id": "exterior",
+      "room": "外立面",
+      "name": "连续五孔石窑与门窗",
+      "source": "https://bbs.zol.com.cn/dcbbs/d33510_31812.html",
+      "status": "现场参考",
+      "confidence": "中",
+      "note": "门窗构图据照片；长度、深度和背面结构推测。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "bed",
+      "room": "寝室",
+      "name": "木床与折叠被褥",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "中",
+      "note": "床头、床尾横条、六层折叠铺盖及屏风相对位置依据20、24号床铺近照重建。绝对尺寸、底部榫接与细小褶皱仍为照片推定。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "window",
+      "room": "寝室",
+      "name": "四扇木格窗与窗纸",
+      "source": "https://bbs.zol.com.cn/dcbbs/d33510_31812.html",
+      "status": "现场参考",
+      "confidence": "中",
+      "note": "下部四扇木格窗嵌入外墙洞口；补齐内侧窗棂、窗台及粉刷收口。独立观察仅包含窗框、窗纸和窗棂，不含门扇或窗下墙体。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "bookcase",
+      "room": "寝室",
+      "name": "床头储物与书籍",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "低",
+      "note": "主床铺近照显示床头后方开放书架，按该展示状态保留空层板；不混入另一日期玻璃柜的陈列。柜上书籍只建可见形状，不伪造书名。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "wardrobe",
+      "room": "寝室",
+      "name": "高储物柜",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "中",
+      "note": "按全景可见的开放层板柜形制建模，不补造照片中无法确认的柜门。尺寸、深度与背面推测。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "chest",
+      "room": "寝室",
+      "name": "储物柜",
+      "source": "https://www.oldkids.cn/blog/view.php?bid=1319492",
+      "status": "复原陈设",
+      "confidence": "低",
+      "note": "10号生活陈设照片支持双小抽屉与三层长抽屉、拉手及柜腿形制。尺寸和背面结构推定。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "curtain",
+      "room": "寝室",
+      "name": "床侧四联布屏风",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "现场参考",
+      "confidence": "中",
+      "note": "依据20、24号近照重建四联木框布屏风，沿床的靠窗一侧布置；框架接合与布料褶皱细节推定。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "desk",
+      "room": "办公室",
+      "name": "覆布写字台、电话、搪瓷缸、镇尺",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "中",
+      "note": "浅色木框写字台、垂落白布、镇尺、带盖搪瓷缸、白杯、棕罐、绿色小容器及黑色电话按23号照片排列；电话型号与隐蔽结构未确认。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "office-chair",
+      "room": "办公室",
+      "name": "木椅",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "低",
+      "note": "椅背可见，其余结构为复原推测。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "office-wall-exhibits",
+      "room": "办公室",
+      "name": "办公室墙面展陈",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "现场参考",
+      "confidence": "低",
+      "note": "办公室画芯取自办公室照片局部；未辨读的细节不添加解说。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "bedroom-wall-exhibits",
+      "room": "寝室",
+      "name": "寝室墙面展陈",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "现场参考",
+      "confidence": "低",
+      "note": "画芯取自寝室全景局部；低分辨率无法辨读，不添加文字解说。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "guest-furniture",
+      "room": "会客室",
+      "name": "木扶手椅与圆桌",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "status": "复原陈设",
+      "confidence": "中",
+      "note": "主要形制参考现场；数量、全室布置为复原推测。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "courtyard",
+      "room": "庭院",
+      "name": "地面与树木",
+      "source": "https://www.sohu.com/a/792876284_428863",
+      "status": "照片参考与环境推定",
+      "confidence": "中（可见院落）；低（遮挡区域）",
+      "note": "以2024年文章中明确标注的毛泽东旧居照片校准夏季林冠、门前低矮多干树、右侧高树树池及铺装。背坡、前缘、园路、每棵树的精确位置和树种未测绘，属于环境推定。通用CC0树木与地表只提供质感，不作为历史证据。",
+      "license": "申威隆／关中拍客文章图片：仅本地研究参考，未取得公开再发布授权；通用植被素材为Poly Haven CC0。",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "sky",
+      "room": "环境",
+      "name": "实拍HDR天空",
+      "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "status": "艺术化补充",
+      "confidence": "高",
+      "note": "Greg Zaal / Jarod Guest 的通用天空HDR；不是枣园现场天空照片。CC0 许可。",
+      "license": "CC0 1.0；https://polyhaven.com/license",
+      "originalObjectIdentity": "不适用",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "visitor",
+      "room": "庭院",
+      "name": "当代参观者",
+      "source": "https://github.com/microsoft/Microsoft-Rocketbox/tree/0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "status": "艺术化补充",
+      "confidence": "高",
+      "note": "采用 Microsoft Rocketbox Male Adult 09 的人体网格与动作；仅作为当代参观者，不是历史人物。MIT 许可。",
+      "license": "Microsoft Rocketbox MIT；https://github.com/microsoft/Microsoft-Rocketbox/blob/0943055db6ec570bcef9f2c8b41c9e5467c808f9/LICENSE",
+      "originalObjectIdentity": "不适用",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "bedroom-canvas-chair",
+      "room": "寝室",
+      "name": "帆布折椅",
+      "source": "https://www.oldkids.cn/blog/view.php?bid=1319492",
+      "status": "现场参考",
+      "confidence": "中",
+      "note": "床与抽屉柜间的帆布折椅据10号照片；尺寸与背面连接结构推定。",
+      "license": "原照片许可未确认；仅本地研究参考，公开发布前需授权",
+      "originalObjectIdentity": "未确认",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "landscape-vegetation",
+      "room": "周边园林",
+      "name": "夏季阔叶林与地被",
+      "source": "https://polyhaven.com/a/tree_small_02",
+      "status": "通用素材与环境推定",
+      "confidence": "低（精确位置及树种）",
+      "license": "CC0-1.0；见/licenses/site-assets.json",
+      "originalObjectIdentity": "不适用",
+      "note": "通用阔叶树用于重建照片中的植被层次；不将其称为现场丁香、槐树或枣树的实测模型。",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    },
+    {
+      "id": "washstand",
+      "room": "寝室",
+      "name": "木制洗脸架与搪瓷盆",
+      "source": "https://www.kankanews.com/detail/Gr21Yz3Gd2e",
+      "additionalSources": [
+        "https://dqxy.xju.edu.cn/__local/1/1C/29/9E16619046238C2C407AD5DA507_0F040979_38852D.pdf"
+      ],
+      "status": "复原陈设 · 细部推定",
+      "confidence": "低：可见形制有限",
+      "originalObjectIdentity": "未确认",
+      "license": "原照片许可未确认，仅作研究参考，公开展示前需核权",
+      "note": "枣园旧居全景照片与新疆大学2024年第38期参观简报支持有洗脸架。木架接合、盆具剖面、磨损及本模型的摆放位置为推定，尚非测绘复原；不宣称为毛泽东当年使用的原件。",
+      "publicImages": "Reference photos are omitted from this public demo; source citations are retained."
+    }
+  ],
+  "photoRevision": {
+    "bedDetail": [
+      "20",
+      "24"
+    ],
+    "panorama": "22",
+    "chestAndChair": "10",
+    "office": "23",
+    "dimensionalStatus": "照片比例推定，非现场测绘",
+    "lighting": "Cycles diffuse irradiance baked to dedicated second UV atlas"
+  },
+  "refinement": {
+    "reference": "03 exterior; 20/22/24 bedroom",
+    "layoutCorrection": "Removed erroneous furniture mirror; full-sized colliders match the window-side bed and screen.",
+    "landscape": "Summer courtyard and wooded backdrop guided by the labelled 2024 courtyard photograph. Hidden terrain and planting coordinates remain inferred.",
+    "materials": "Recoloured CC0 surface scans; /licenses/refinement-assets.json. Scans are not historical evidence."
+  },
+  "landscape": {
+    "season": "2024年夏季照片参考",
+    "surveyed": false,
+    "references": "/references/site/sources.json",
+    "licenseManifest": "/licenses/site-assets.json",
+    "limitations": [
+      "未取得地形测绘和完整环景",
+      "远景与被树遮挡的地形为推定",
+      "不据照片证明历史植物或原物身份"
+    ]
+  }
+}

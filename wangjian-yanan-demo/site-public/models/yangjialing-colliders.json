@@ -1,0 +1,772 @@
+[
+  {
+    "id": "all_walkable_ground",
+    "position": [
+      0,
+      -0.18,
+      5
+    ],
+    "halfExtents": [
+      35.0,
+      0.125,
+      36.0
+    ],
+    "camera": false
+  },
+  {
+    "id": "hall_wall_-1",
+    "position": [
+      -9.22,
+      4.0,
+      0
+    ],
+    "halfExtents": [
+      0.21,
+      4.0,
+      13.35
+    ],
+    "camera": true
+  },
+  {
+    "id": "hall_wall_1",
+    "position": [
+      9.22,
+      4.0,
+      0
+    ],
+    "halfExtents": [
+      0.21,
+      4.0,
+      13.35
+    ],
+    "camera": true
+  },
+  {
+    "id": "entry_wall_-1",
+    "position": [
+      -5.1,
+      2.2,
+      13.18
+    ],
+    "halfExtents": [
+      3.6,
+      2.2,
+      0.2
+    ],
+    "camera": true
+  },
+  {
+    "id": "entry_wall_1",
+    "position": [
+      5.1,
+      2.2,
+      13.18
+    ],
+    "halfExtents": [
+      3.6,
+      2.2,
+      0.2
+    ],
+    "camera": true
+  },
+  {
+    "id": "rear_lintel",
+    "position": [
+      0,
+      7.4,
+      13.18
+    ],
+    "halfExtents": [
+      9.25,
+      3.0,
+      0.2
+    ],
+    "camera": true
+  },
+  {
+    "id": "stage_back_wall",
+    "position": [
+      0,
+      3.6,
+      -13.18
+    ],
+    "halfExtents": [
+      9.2,
+      3.6,
+      0.2
+    ],
+    "camera": true
+  },
+  {
+    "id": "raised_stone_stage",
+    "position": [
+      0,
+      0.52,
+      -11.28
+    ],
+    "halfExtents": [
+      6.9,
+      0.52,
+      1.65
+    ],
+    "camera": true
+  },
+  {
+    "id": "seat_0",
+    "position": [
+      -6.3,
+      0.54,
+      10.84
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_1",
+    "position": [
+      -3.65,
+      0.54,
+      10.84
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_2",
+    "position": [
+      3.65,
+      0.54,
+      10.84
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_3",
+    "position": [
+      6.3,
+      0.54,
+      10.84
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_4",
+    "position": [
+      -6.3,
+      0.54,
+      9.19
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_5",
+    "position": [
+      -3.65,
+      0.54,
+      9.19
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_6",
+    "position": [
+      3.65,
+      0.54,
+      9.19
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_7",
+    "position": [
+      6.3,
+      0.54,
+      9.19
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_8",
+    "position": [
+      -6.3,
+      0.54,
+      7.540000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_9",
+    "position": [
+      -3.65,
+      0.54,
+      7.540000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_10",
+    "position": [
+      3.65,
+      0.54,
+      7.540000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_11",
+    "position": [
+      6.3,
+      0.54,
+      7.540000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_12",
+    "position": [
+      -6.3,
+      0.54,
+      5.8900000000000015
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_13",
+    "position": [
+      -3.65,
+      0.54,
+      5.8900000000000015
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_14",
+    "position": [
+      3.65,
+      0.54,
+      5.8900000000000015
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_15",
+    "position": [
+      6.3,
+      0.54,
+      5.8900000000000015
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_16",
+    "position": [
+      -6.3,
+      0.54,
+      4.240000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_17",
+    "position": [
+      -3.65,
+      0.54,
+      4.240000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_18",
+    "position": [
+      3.65,
+      0.54,
+      4.240000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_19",
+    "position": [
+      6.3,
+      0.54,
+      4.240000000000001
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_20",
+    "position": [
+      -6.3,
+      0.54,
+      2.5900000000000007
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_21",
+    "position": [
+      -3.65,
+      0.54,
+      2.5900000000000007
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_22",
+    "position": [
+      3.65,
+      0.54,
+      2.5900000000000007
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_23",
+    "position": [
+      6.3,
+      0.54,
+      2.5900000000000007
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_24",
+    "position": [
+      -6.3,
+      0.54,
+      0.9400000000000022
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_25",
+    "position": [
+      -3.65,
+      0.54,
+      0.9400000000000022
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_26",
+    "position": [
+      3.65,
+      0.54,
+      0.9400000000000022
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_27",
+    "position": [
+      6.3,
+      0.54,
+      0.9400000000000022
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_28",
+    "position": [
+      -6.3,
+      0.54,
+      -0.7099999999999982
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_29",
+    "position": [
+      -3.65,
+      0.54,
+      -0.7099999999999982
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_30",
+    "position": [
+      3.65,
+      0.54,
+      -0.7099999999999982
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_31",
+    "position": [
+      6.3,
+      0.54,
+      -0.7099999999999982
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_32",
+    "position": [
+      -6.3,
+      0.54,
+      -2.3599999999999985
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_33",
+    "position": [
+      -3.65,
+      0.54,
+      -2.3599999999999985
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_34",
+    "position": [
+      3.65,
+      0.54,
+      -2.3599999999999985
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_35",
+    "position": [
+      6.3,
+      0.54,
+      -2.3599999999999985
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_36",
+    "position": [
+      -6.3,
+      0.54,
+      -4.009999999999999
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_37",
+    "position": [
+      -3.65,
+      0.54,
+      -4.009999999999999
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_38",
+    "position": [
+      3.65,
+      0.54,
+      -4.009999999999999
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "seat_39",
+    "position": [
+      6.3,
+      0.54,
+      -4.009999999999999
+    ],
+    "halfExtents": [
+      1.215,
+      0.54,
+      0.29
+    ],
+    "camera": false
+  },
+  {
+    "id": "boundary_left",
+    "position": [
+      -27,
+      1,
+      10
+    ],
+    "halfExtents": [
+      0.5,
+      1.5,
+      30.0
+    ],
+    "camera": false
+  },
+  {
+    "id": "boundary_right",
+    "position": [
+      27,
+      1,
+      10
+    ],
+    "halfExtents": [
+      0.5,
+      1.5,
+      30.0
+    ],
+    "camera": false
+  },
+  {
+    "id": "boundary_front",
+    "position": [
+      0,
+      1,
+      32
+    ],
+    "halfExtents": [
+      28.0,
+      1.5,
+      0.5
+    ],
+    "camera": false
+  },
+  {
+    "id": "side_table_-1",
+    "position": [
+      -7.9,
+      0.41,
+      -5.6
+    ],
+    "halfExtents": [
+      0.32,
+      0.41,
+      1.4
+    ],
+    "camera": true
+  },
+  {
+    "id": "side_table_1",
+    "position": [
+      7.9,
+      0.41,
+      -5.6
+    ],
+    "halfExtents": [
+      0.32,
+      0.41,
+      1.4
+    ],
+    "camera": true
+  },
+  {
+    "id": "photo_stage_floor_pot_-4.15",
+    "position": [
+      -4.15,
+      0.37,
+      -8.86
+    ],
+    "halfExtents": [
+      0.3,
+      0.37,
+      0.3
+    ],
+    "camera": false
+  },
+  {
+    "id": "photo_stage_floor_pot_4.15",
+    "position": [
+      4.15,
+      0.37,
+      -8.86
+    ],
+    "halfExtents": [
+      0.3,
+      0.37,
+      0.3
+    ],
+    "camera": false
+  }
+]

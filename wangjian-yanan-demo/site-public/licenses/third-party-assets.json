@@ -1,0 +1,45 @@
+{
+  "updated": "2026-10-17",
+  "assets": [
+    {
+      "id": "contemporary-visitor",
+      "author": "Microsoft Rocketbox",
+      "source": "https://github.com/microsoft/Microsoft-Rocketbox/tree/0943055db6ec570bcef9f2c8b41c9e5467c808f9",
+      "license": "MIT",
+      "licenseFile": "/licenses/Rocketbox-MIT.txt",
+      "files": ["Male_Adult_09.fbx", "m017_body_color.tga", "m017_head_color.tga", "m017_opacity_color.tga", "m_idle_breathe_01.max.fbx", "m_walk_neutral.max.fbx", "m_run_neutral.max.fbx"],
+      "changes": "Materials converted to glTF; motion retargeted and baked; horizontal root motion removed; orientation adjusted. Contemporary visitor, no historic identity."
+    },
+    {
+      "id": "sky",
+      "author": "Greg Zaal / Jarod Guest, Poly Haven",
+      "source": "https://polyhaven.com/a/kloofendal_48d_partly_cloudy_puresky",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "files": ["/environment/sky-2k.hdr"],
+      "changes": "Downsampled 2K HDR environment. Generic photographic sky; not a Zaoyuan site photograph."
+    },
+    {
+      "id": "soil",
+      "source": "https://polyhaven.com/a/dry_ground_rocks",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "files": ["/environment/ground_diffuse.jpg", "/environment/ground_rough.jpg", "/environment/ground_nor_gl.jpg"],
+      "changes": "Applied to inferred context terrain; not site evidence."
+    },
+    {
+      "id": "bark",
+      "source": "https://polyhaven.com/a/bark_brown_02",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "files": ["/environment/bark_diffuse.jpg", "/environment/bark_rough.jpg", "/environment/bark_nor_gl.jpg"]
+    },
+    {
+      "id": "timber",
+      "source": "https://polyhaven.com/a/wood_table_001",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://polyhaven.com/license",
+      "files": ["/environment/wood_diffuse.jpg", "/environment/wood_rough.jpg", "/environment/wood_nor_gl.jpg"]
+    }
+  ]
+}

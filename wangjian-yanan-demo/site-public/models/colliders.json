@@ -1,0 +1,939 @@
+[
+  {
+    "id": "staff_b_wall_-1",
+    "room": "staff_b",
+    "position": [
+      -1.72,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "staff_b_wall_1",
+    "room": "staff_b",
+    "position": [
+      1.72,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "staff_b_rear",
+    "room": "staff_b",
+    "position": [
+      0,
+      1.95,
+      -5.5
+    ],
+    "halfExtents": [
+      1.75,
+      1.95,
+      0.1
+    ]
+  },
+  {
+    "id": "staff_b_window_collision",
+    "room": "staff_b",
+    "position": [
+      0.5,
+      1,
+      -0.22
+    ],
+    "halfExtents": [
+      0.965,
+      1.0,
+      0.21
+    ]
+  },
+  {
+    "id": "staff_b_fan_collision",
+    "room": "staff_b",
+    "position": [
+      0,
+      2.8,
+      -0.22
+    ],
+    "halfExtents": [
+      1.55,
+      0.8,
+      0.21
+    ]
+  },
+  {
+    "id": "staff_b_pier_-1",
+    "room": "staff_b",
+    "position": [
+      -1.825,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "staff_b_pier_1",
+    "room": "staff_b",
+    "position": [
+      1.825,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "staff_b_closed",
+    "room": "staff_b",
+    "position": [
+      -0.97,
+      1,
+      -0.5
+    ],
+    "halfExtents": [
+      0.475,
+      1.0,
+      0.06
+    ]
+  },
+  {
+    "id": "staff_a_wall_-1",
+    "room": "staff_a",
+    "position": [
+      2.4800000000000004,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "staff_a_wall_1",
+    "room": "staff_a",
+    "position": [
+      5.92,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "staff_a_rear",
+    "room": "staff_a",
+    "position": [
+      4.2,
+      1.95,
+      -5.5
+    ],
+    "halfExtents": [
+      1.75,
+      1.95,
+      0.1
+    ]
+  },
+  {
+    "id": "staff_a_window_collision",
+    "room": "staff_a",
+    "position": [
+      4.7,
+      1,
+      -0.22
+    ],
+    "halfExtents": [
+      0.965,
+      1.0,
+      0.21
+    ]
+  },
+  {
+    "id": "staff_a_fan_collision",
+    "room": "staff_a",
+    "position": [
+      4.2,
+      2.8,
+      -0.22
+    ],
+    "halfExtents": [
+      1.55,
+      0.8,
+      0.21
+    ]
+  },
+  {
+    "id": "staff_a_pier_-1",
+    "room": "staff_a",
+    "position": [
+      2.375,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "staff_a_pier_1",
+    "room": "staff_a",
+    "position": [
+      6.025,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "staff_a_closed",
+    "room": "staff_a",
+    "position": [
+      3.2300000000000004,
+      1,
+      -0.5
+    ],
+    "halfExtents": [
+      0.475,
+      1.0,
+      0.06
+    ]
+  },
+  {
+    "id": "bedroom_wall_-1",
+    "room": "bedroom",
+    "position": [
+      6.680000000000001,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "bedroom_wall_1",
+    "room": "bedroom",
+    "position": [
+      10.120000000000001,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "bedroom_rear",
+    "room": "bedroom",
+    "position": [
+      8.4,
+      1.95,
+      -5.5
+    ],
+    "halfExtents": [
+      1.75,
+      1.95,
+      0.1
+    ]
+  },
+  {
+    "id": "bedroom_window_collision",
+    "room": "bedroom",
+    "position": [
+      8.9,
+      1,
+      -0.22
+    ],
+    "halfExtents": [
+      0.965,
+      1.0,
+      0.21
+    ]
+  },
+  {
+    "id": "bedroom_fan_collision",
+    "room": "bedroom",
+    "position": [
+      8.4,
+      2.8,
+      -0.22
+    ],
+    "halfExtents": [
+      1.55,
+      0.8,
+      0.21
+    ]
+  },
+  {
+    "id": "bedroom_pier_-1",
+    "room": "bedroom",
+    "position": [
+      6.575,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "bedroom_pier_1",
+    "room": "bedroom",
+    "position": [
+      10.225,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "office_wall_-1",
+    "room": "office",
+    "position": [
+      10.879999999999999,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "office_wall_1",
+    "room": "office",
+    "position": [
+      14.32,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "office_rear",
+    "room": "office",
+    "position": [
+      12.6,
+      1.95,
+      -5.5
+    ],
+    "halfExtents": [
+      1.75,
+      1.95,
+      0.1
+    ]
+  },
+  {
+    "id": "office_window_collision",
+    "room": "office",
+    "position": [
+      13.1,
+      1,
+      -0.22
+    ],
+    "halfExtents": [
+      0.965,
+      1.0,
+      0.21
+    ]
+  },
+  {
+    "id": "office_fan_collision",
+    "room": "office",
+    "position": [
+      12.6,
+      2.8,
+      -0.22
+    ],
+    "halfExtents": [
+      1.55,
+      0.8,
+      0.21
+    ]
+  },
+  {
+    "id": "office_pier_-1",
+    "room": "office",
+    "position": [
+      10.775,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "office_pier_1",
+    "room": "office",
+    "position": [
+      14.424999999999999,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "guest_wall_-1",
+    "room": "guest",
+    "position": [
+      15.08,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "guest_wall_1",
+    "room": "guest",
+    "position": [
+      18.52,
+      1.8,
+      -2.95
+    ],
+    "halfExtents": [
+      0.09,
+      1.8,
+      2.55
+    ]
+  },
+  {
+    "id": "guest_rear",
+    "room": "guest",
+    "position": [
+      16.8,
+      1.95,
+      -5.5
+    ],
+    "halfExtents": [
+      1.75,
+      1.95,
+      0.1
+    ]
+  },
+  {
+    "id": "guest_window_collision",
+    "room": "guest",
+    "position": [
+      17.3,
+      1,
+      -0.22
+    ],
+    "halfExtents": [
+      0.965,
+      1.0,
+      0.21
+    ]
+  },
+  {
+    "id": "guest_fan_collision",
+    "room": "guest",
+    "position": [
+      16.8,
+      2.8,
+      -0.22
+    ],
+    "halfExtents": [
+      1.55,
+      0.8,
+      0.21
+    ]
+  },
+  {
+    "id": "guest_pier_-1",
+    "room": "guest",
+    "position": [
+      14.975000000000001,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "guest_pier_1",
+    "room": "guest",
+    "position": [
+      18.625,
+      2,
+      -0.22
+    ],
+    "halfExtents": [
+      0.275,
+      2.0,
+      0.32
+    ]
+  },
+  {
+    "id": "all_walkable_ground",
+    "room": "exterior",
+    "position": [
+      8.4,
+      -0.13,
+      0
+    ],
+    "halfExtents": [
+      35.0,
+      0.125,
+      25.0
+    ]
+  },
+  {
+    "id": "site_edge_-3",
+    "room": "exterior",
+    "position": [
+      -3,
+      1.5,
+      1
+    ],
+    "halfExtents": [
+      0.1,
+      1.5,
+      12.0
+    ]
+  },
+  {
+    "id": "site_edge_20",
+    "room": "exterior",
+    "position": [
+      20,
+      1.5,
+      1
+    ],
+    "halfExtents": [
+      0.1,
+      1.5,
+      12.0
+    ]
+  },
+  {
+    "id": "courtyard_front_edge",
+    "room": "exterior",
+    "position": [
+      8.4,
+      1.5,
+      10
+    ],
+    "halfExtents": [
+      12.0,
+      1.5,
+      0.1
+    ]
+  },
+  {
+    "id": "tree_trunk_5.8",
+    "room": "exterior",
+    "position": [
+      5.8,
+      1.4,
+      1.45
+    ],
+    "halfExtents": [
+      0.225,
+      1.4,
+      0.225
+    ]
+  },
+  {
+    "id": "tree_trunk_19",
+    "room": "exterior",
+    "position": [
+      19,
+      1.4,
+      1.7
+    ],
+    "halfExtents": [
+      0.225,
+      1.4,
+      0.225
+    ]
+  },
+  {
+    "id": "tree_trunk_-2.7",
+    "room": "exterior",
+    "position": [
+      -2.7,
+      1.4,
+      3.8
+    ],
+    "halfExtents": [
+      0.225,
+      1.4,
+      0.225
+    ]
+  },
+  {
+    "id": "guest_chair_15.85",
+    "room": "guest",
+    "position": [
+      15.85,
+      0.55,
+      -4.45
+    ],
+    "halfExtents": [
+      0.34,
+      0.55,
+      0.35
+    ]
+  },
+  {
+    "id": "guest_chair_17.2",
+    "room": "guest",
+    "position": [
+      17.2,
+      0.55,
+      -4.45
+    ],
+    "halfExtents": [
+      0.34,
+      0.55,
+      0.35
+    ]
+  },
+  {
+    "id": "guest_chair_15.2",
+    "room": "guest",
+    "position": [
+      15.2,
+      0.55,
+      -2.95
+    ],
+    "halfExtents": [
+      0.35,
+      0.55,
+      0.34
+    ]
+  },
+  {
+    "id": "guest_chair_18.15",
+    "room": "guest",
+    "position": [
+      18.15,
+      0.55,
+      -2.95
+    ],
+    "halfExtents": [
+      0.35,
+      0.55,
+      0.34
+    ]
+  },
+  {
+    "id": "guest_table_16.53",
+    "room": "guest",
+    "position": [
+      16.53,
+      0.36,
+      -4.1
+    ],
+    "halfExtents": [
+      0.325,
+      0.36,
+      0.325
+    ]
+  },
+  {
+    "id": "guest_table_15.8",
+    "room": "guest",
+    "position": [
+      15.8,
+      0.36,
+      -2.45
+    ],
+    "halfExtents": [
+      0.325,
+      0.36,
+      0.325
+    ]
+  },
+  {
+    "id": "guest_table_17.4",
+    "room": "guest",
+    "position": [
+      17.4,
+      0.36,
+      -2.45
+    ],
+    "halfExtents": [
+      0.325,
+      0.36,
+      0.325
+    ]
+  },
+  {
+    "id": "staff_b_open_door_collision",
+    "room": "staff_b",
+    "position": [
+      -1.415,
+      0.96,
+      -0.92
+    ],
+    "halfExtents": [
+      0.07,
+      0.96,
+      0.46
+    ]
+  },
+  {
+    "id": "staff_a_open_door_collision",
+    "room": "staff_a",
+    "position": [
+      2.785,
+      0.96,
+      -0.92
+    ],
+    "halfExtents": [
+      0.07,
+      0.96,
+      0.46
+    ]
+  },
+  {
+    "id": "bedroom_open_door_collision",
+    "room": "bedroom",
+    "position": [
+      6.985,
+      0.96,
+      -0.92
+    ],
+    "halfExtents": [
+      0.07,
+      0.96,
+      0.46
+    ]
+  },
+  {
+    "id": "office_open_door_collision",
+    "room": "office",
+    "position": [
+      11.184999999999999,
+      0.96,
+      -0.92
+    ],
+    "halfExtents": [
+      0.07,
+      0.96,
+      0.46
+    ]
+  },
+  {
+    "id": "guest_open_door_collision",
+    "room": "guest",
+    "position": [
+      15.385000000000002,
+      0.96,
+      -0.92
+    ],
+    "halfExtents": [
+      0.07,
+      0.96,
+      0.46
+    ]
+  },
+  {
+    "id": "bed_collision",
+    "room": "bedroom",
+    "position": [
+      8.84,
+      0.57,
+      -1.83
+    ],
+    "halfExtents": [
+      1.03,
+      0.57,
+      0.72
+    ]
+  },
+  {
+    "id": "screen_collision",
+    "room": "bedroom",
+    "position": [
+      8.885,
+      1.13,
+      -1.06
+    ],
+    "halfExtents": [
+      0.98,
+      1.13,
+      0.085
+    ]
+  },
+  {
+    "id": "bookcase_collision",
+    "room": "bedroom",
+    "position": [
+      9.89,
+      1.6,
+      -1.83
+    ],
+    "halfExtents": [
+      0.12,
+      0.45,
+      0.585
+    ]
+  },
+  {
+    "id": "chest_collision",
+    "room": "bedroom",
+    "position": [
+      9.68,
+      0.61,
+      -3.48
+    ],
+    "halfExtents": [
+      0.34,
+      0.615,
+      0.515
+    ]
+  },
+  {
+    "id": "wardrobe_collision",
+    "room": "bedroom",
+    "position": [
+      9.68,
+      1.03,
+      -4.66
+    ],
+    "halfExtents": [
+      0.335,
+      1.03,
+      0.465
+    ]
+  },
+  {
+    "id": "canvas_chair_collision",
+    "room": "bedroom",
+    "position": [
+      9.34,
+      0.49,
+      -2.83
+    ],
+    "halfExtents": [
+      0.41,
+      0.49,
+      0.26
+    ]
+  },
+  {
+    "id": "desk_collision",
+    "room": "office",
+    "position": [
+      12.55,
+      0.43,
+      -3.48
+    ],
+    "halfExtents": [
+      1.065,
+      0.43,
+      0.55
+    ]
+  },
+  {
+    "id": "office_chair_collision",
+    "room": "office",
+    "position": [
+      11.950000000000001,
+      0.54,
+      -4.38
+    ],
+    "halfExtents": [
+      0.34,
+      0.54,
+      0.34
+    ]
+  },
+  {
+    "id": "site_summer_front_wall",
+    "room": "courtyard",
+    "position": [
+      8.8,
+      0.2,
+      10.7
+    ],
+    "halfExtents": [
+      11.9,
+      0.275,
+      0.15
+    ]
+  },
+  {
+    "id": "site_summer_right_return",
+    "room": "courtyard",
+    "position": [
+      20.48,
+      0.34,
+      6.5
+    ],
+    "halfExtents": [
+      0.14,
+      0.34,
+      4.05
+    ]
+  },
+  {
+    "id": "washstand_collision",
+    "position": [
+      7.53,
+      0.49,
+      -4.92
+    ],
+    "halfExtents": [
+      0.31,
+      0.49,
+      0.29
+    ]
+  }
+]

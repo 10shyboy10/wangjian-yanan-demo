@@ -1,0 +1,127 @@
+{
+  "updated": "2026-10-18",
+  "usage": "Generic surface scans, not historical or survey evidence for Zaoyuan.",
+  "assets": [
+    {
+      "id": "plastered_wall_04",
+      "type": "diff",
+      "file": "/environment/refinement/plastered_wall_04_diff.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_diff_2k.jpg",
+      "bytes": 1465312,
+      "sha256": "aaf0e693291d51d13531480625a942f950fed23f6b1d1008ee0e91f2a23a7b1e",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/plastered_wall_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "plastered_wall_04",
+      "type": "nor_gl",
+      "file": "/environment/refinement/plastered_wall_04_nor_gl.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_nor_gl_2k.jpg",
+      "bytes": 1760685,
+      "sha256": "904f6ca0b569754502675b8891b5d6aad1d8a07f938e8a43cf385170a21a12dc",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/plastered_wall_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "plastered_wall_04",
+      "type": "rough",
+      "file": "/environment/refinement/plastered_wall_04_rough.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_rough_2k.jpg",
+      "bytes": 1236406,
+      "sha256": "37302048eb2e60be2a73a7f803965097681e652b80b93d6d701cfc7fabc1e0a7",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/plastered_wall_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "plastered_wall_04",
+      "type": "disp",
+      "file": "/environment/refinement/plastered_wall_04_disp.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/plastered_wall_04/plastered_wall_04_disp_2k.jpg",
+      "bytes": 253917,
+      "sha256": "65fe33df323b7201f83f093f06c503eeacfe829b0eb79743d95b096a36c599fb",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/plastered_wall_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "pavement_04",
+      "type": "diff",
+      "file": "/environment/refinement/pavement_04_diff.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_04/pavement_04_diff_2k.jpg",
+      "bytes": 4059951,
+      "sha256": "1b23c4d027f59b7891ecad7e1c1e8a4c441063e407f7442a8dde4d7b4d7e095b",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/pavement_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "pavement_04",
+      "type": "nor_gl",
+      "file": "/environment/refinement/pavement_04_nor_gl.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_04/pavement_04_nor_gl_2k.jpg",
+      "bytes": 2240432,
+      "sha256": "267790e647bc8ef5672f5a0d1a6c2ae60955d0755211d11bcdf10e8a33f7ad75",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/pavement_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "pavement_04",
+      "type": "rough",
+      "file": "/environment/refinement/pavement_04_rough.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_04/pavement_04_rough_2k.jpg",
+      "bytes": 1327087,
+      "sha256": "e3019d9f48f8d2b5526a2a1884e41d931d49b5609fd899f0325760e1f565b7dc",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/pavement_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "pavement_04",
+      "type": "disp",
+      "file": "/environment/refinement/pavement_04_disp.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/pavement_04/pavement_04_disp_2k.jpg",
+      "bytes": 1403125,
+      "sha256": "35c51c9e591c9594fe2d7bc3a83f616e6cf9cdad4a832f9f735e6b40e22c7ced",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/pavement_04",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "rough_linen",
+      "type": "diff",
+      "file": "/environment/refinement/rough_linen_diff.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_diff_2k.jpg",
+      "bytes": 3607181,
+      "sha256": "e71016e08dfebea1dd4e8a2a675e3b617a889a782af782f1abb795906f4db1b4",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "rough_linen",
+      "type": "nor_gl",
+      "file": "/environment/refinement/rough_linen_nor_gl.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_nor_gl_2k.jpg",
+      "bytes": 3849356,
+      "sha256": "c5733ad50cfe0f90c546f3d4076590c1c78a4fd1a83c967cc9c92dc8175b99e6",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "licenseUrl": "https://polyhaven.com/license"
+    },
+    {
+      "id": "rough_linen",
+      "type": "rough",
+      "file": "/environment/refinement/rough_linen_rough.jpg",
+      "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/2k/rough_linen/rough_linen_rough_2k.jpg",
+      "bytes": 4655974,
+      "sha256": "48400d48fa203882bf5d984d5beb2f95edb1550309924601c018f2c4f3f80731",
+      "license": "CC0-1.0",
+      "source": "https://polyhaven.com/a/rough_linen",
+      "licenseUrl": "https://polyhaven.com/license"
+    }
+  ]
+}
