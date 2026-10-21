@@ -3,13 +3,13 @@
     "id": "all_walkable_ground",
     "position": [
       0,
-      -0.18,
+      -0.185,
       5
     ],
     "halfExtents": [
-      35.0,
+      35,
       0.125,
-      36.0
+      36
     ],
     "camera": false
   },
@@ -17,12 +17,12 @@
     "id": "hall_wall_-1",
     "position": [
       -9.22,
-      4.0,
+      4,
       0
     ],
     "halfExtents": [
       0.21,
-      4.0,
+      4,
       13.35
     ],
     "camera": true
@@ -31,12 +31,12 @@
     "id": "hall_wall_1",
     "position": [
       9.22,
-      4.0,
+      4,
       0
     ],
     "halfExtents": [
       0.21,
-      4.0,
+      4,
       13.35
     ],
     "camera": true
@@ -44,12 +44,12 @@
   {
     "id": "entry_wall_-1",
     "position": [
-      -5.1,
+      -5.35,
       2.2,
       13.18
     ],
     "halfExtents": [
-      3.6,
+      3.85,
       2.2,
       0.2
     ],
@@ -58,12 +58,12 @@
   {
     "id": "entry_wall_1",
     "position": [
-      5.1,
+      5.35,
       2.2,
       13.18
     ],
     "halfExtents": [
-      3.6,
+      3.85,
       2.2,
       0.2
     ],
@@ -78,7 +78,7 @@
     ],
     "halfExtents": [
       9.25,
-      3.0,
+      3,
       0.2
     ],
     "camera": true
@@ -681,7 +681,7 @@
     "halfExtents": [
       0.5,
       1.5,
-      30.0
+      30
     ],
     "camera": false
   },
@@ -695,7 +695,7 @@
     "halfExtents": [
       0.5,
       1.5,
-      30.0
+      30
     ],
     "camera": false
   },
@@ -707,7 +707,7 @@
       32
     ],
     "halfExtents": [
-      28.0,
+      28,
       1.5,
       0.5
     ],
@@ -766,6 +766,119 @@
       0.3,
       0.37,
       0.3
+    ],
+    "camera": false
+  },
+  {
+    "id": "visible_floor_hall",
+    "position": [
+      0,
+      -0.0265,
+      -0.025
+    ],
+    "halfExtents": [
+      9.1,
+      0.0515,
+      13.175
+    ],
+    "friction": 0,
+    "camera": false
+  },
+  {
+    "id": "west_low_wall",
+    "position": [
+      -7,
+      0.455,
+      26
+    ],
+    "halfExtents": [
+      0.16,
+      0.515,
+      12
+    ],
+    "camera": true
+  },
+  {
+    "id": "courtyard_tree_trunk_0",
+    "position": [
+      6.75,
+      1.2,
+      24.1
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
+    ],
+    "camera": false
+  },
+  {
+    "id": "courtyard_tree_trunk_1",
+    "position": [
+      18.8,
+      1.2,
+      29.2
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
+    ],
+    "camera": false
+  },
+  {
+    "id": "courtyard_tree_trunk_2",
+    "position": [
+      11.8,
+      1.2,
+      17.1
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
+    ],
+    "camera": false
+  },
+  {
+    "id": "courtyard_tree_trunk_3",
+    "position": [
+      16.3,
+      1.2,
+      18.2
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
+    ],
+    "camera": false
+  },
+  {
+    "id": "courtyard_tree_trunk_4",
+    "position": [
+      20.6,
+      1.2,
+      16.1
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
+    ],
+    "camera": false
+  },
+  {
+    "id": "courtyard_tree_trunk_5",
+    "position": [
+      24.5,
+      1.2,
+      21.3
+    ],
+    "halfExtents": [
+      0.2,
+      1.26,
+      0.2
     ],
     "camera": false
   }

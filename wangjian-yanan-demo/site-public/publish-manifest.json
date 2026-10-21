@@ -1,147 +1,254 @@
 {
+  "release": "2026-10-22-entrance-daylight-music",
+  "created": "2026-10-21T23:39:44.754Z",
   "files": [
     {
       "file": ".nojekyll",
-      "bytes": 0
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "file": "assets/index-CbhsPN6i.js",
-      "bytes": 3706346
+      "file": "assets/index-C-jiYUbE.css",
+      "bytes": 14940,
+      "sha256": "19fb31946be9ccffb2462a39200e2b4ec82f16d059dc972f636d3d38bdf5ec1d"
     },
     {
-      "file": "assets/index-CbStDgWH.css",
-      "bytes": 13112
+      "file": "assets/index-JxsKi8f6.js",
+      "bytes": 3726265,
+      "sha256": "b3af4bb5db67c495dd779f65e69bfe67c24a17205c3b6f47df636301d420bbae"
     },
     {
-      "file": "assets/LegacyPrototype-QjCAK6u1.js",
-      "bytes": 33795
+      "file": "assets/LegacyPrototype-7Jr7s5pc.js",
+      "bytes": 33795,
+      "sha256": "bc05dd33a7eed71f24026e2211f6076d2f0370b16c6a0aaffd5574855e23f03c"
+    },
+    {
+      "file": "audio/reverie.mp3",
+      "bytes": 3132236,
+      "sha256": "02de12f4a314e15a76e525b4cf8e8dc7e35464cf61453b672378b0120de5c3f7"
+    },
+    {
+      "file": "environment/ground_diff.jpg",
+      "bytes": 826834,
+      "sha256": "491ac5be54859171730c620ad768a615f600b81ce00d83bbeab8a7aed7b199d8"
+    },
+    {
+      "file": "environment/ground_nor_gl.jpg",
+      "bytes": 1263934,
+      "sha256": "0bba49a710d0d1f7497ac7c72db2f0ed622ed07397539ce2d5ba756bf5fb3051"
+    },
+    {
+      "file": "environment/ground_rough.jpg",
+      "bytes": 454494,
+      "sha256": "7138e6101ccc994eab22d9b02289e72668d2b2c0863e22141cb42b1043e9f122"
+    },
+    {
+      "file": "environment/refinement/plastered_wall_04_diff.jpg",
+      "bytes": 1465312,
+      "sha256": "aaf0e693291d51d13531480625a942f950fed23f6b1d1008ee0e91f2a23a7b1e"
+    },
+    {
+      "file": "environment/refinement/plastered_wall_04_nor_gl.jpg",
+      "bytes": 1760685,
+      "sha256": "904f6ca0b569754502675b8891b5d6aad1d8a07f938e8a43cf385170a21a12dc"
+    },
+    {
+      "file": "environment/refinement/plastered_wall_04_rough.jpg",
+      "bytes": 1236406,
+      "sha256": "37302048eb2e60be2a73a7f803965097681e652b80b93d6d701cfc7fabc1e0a7"
+    },
+    {
+      "file": "environment/site/forest_ground_04_diff.jpg",
+      "bytes": 4529321,
+      "sha256": "24b8aaf4c8547305d80b0e029ec365219ab1b90748d4ca5651bdc9e75bfde5e6"
+    },
+    {
+      "file": "environment/site/forest_ground_04_nor_gl.jpg",
+      "bytes": 5288849,
+      "sha256": "b37ac799ed410976541e0011c246fca254e74eaa3f096ae7a7d74178db5a6d9b"
+    },
+    {
+      "file": "environment/site/forest_ground_04_rough.jpg",
+      "bytes": 2509805,
+      "sha256": "24194662948424c323c75e0918461ad9d38bc0a275022000144f248b3efb4119"
     },
     {
       "file": "environment/sky-2k.hdr",
-      "bytes": 5451493
+      "bytes": 5451493,
+      "sha256": "5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198"
     },
     {
       "file": "evidence/zaoyuan-evidence.json",
-      "bytes": 13009
+      "bytes": 12757,
+      "sha256": "db3342e368748767afa667fc67be38ef5dd1af65b6613fa651886b2b55156e6f"
     },
     {
       "file": "index.html",
-      "bytes": 468
+      "bytes": 468,
+      "sha256": "071f9c41f66fa13d73ba64aa9508b4acf15daadb37ec7cb0218abb4137b8d3e4"
+    },
+    {
+      "file": "licenses/music-reverie.txt",
+      "bytes": 606,
+      "sha256": "38b544a115ae0352569bc75684e07968226b14e317528b1cd2f6a934f143faee"
     },
     {
       "file": "licenses/refinement-assets.json",
-      "bytes": 5502
+      "bytes": 5502,
+      "sha256": "641790e7d3cf472e9391994a14a01750ccb7bf86f68f9b78a7b209538425fd2f"
     },
     {
       "file": "licenses/Rocketbox-MIT.txt",
-      "bytes": 1066
+      "bytes": 1066,
+      "sha256": "17474e386e0b9e1a700cc3d06b2b0882a2c376d9c6b49c7f8274409b8f8d2352"
     },
     {
       "file": "licenses/site-assets.json",
-      "bytes": 5057
+      "bytes": 5057,
+      "sha256": "ca24c31d31d91bf925bafed28fdd24f9507f3d512d78a42aa4c526f90604db6e"
     },
     {
       "file": "licenses/third-party-assets.json",
-      "bytes": 2028
+      "bytes": 2028,
+      "sha256": "9b22cb2cc913d333db8c65b79d88062f149e22582dd70d335883efe2c98e4b11"
     },
     {
       "file": "models/colliders.json",
-      "bytes": 13379
+      "bytes": 27419,
+      "sha256": "878af6e90ded677e8fdd8853c56b6a5f975510b3d1b3d00ac7b44d5b1229de92"
     },
     {
       "file": "models/inspect_bed.glb",
-      "bytes": 2580484
+      "bytes": 2580484,
+      "sha256": "6110b91bdf16400e7e2f9791b27e0fe0411d41051d0accd53ca5e01f7e2f13cf"
     },
     {
       "file": "models/inspect_desk.glb",
-      "bytes": 11634492
+      "bytes": 11634492,
+      "sha256": "c86639a5253642dc194e15581cecea07a9d8debc89dd983a628ed9fc277f0d39"
     },
     {
       "file": "models/inspect_washstand.glb",
-      "bytes": 581916
+      "bytes": 581916,
+      "sha256": "7ee1786ca8e6d326f21fbfd13bac429ea3f1d37f4a7d864eeee1ea6088e6db20"
     },
     {
       "file": "models/inspect_window.glb",
-      "bytes": 1061936
+      "bytes": 1061936,
+      "sha256": "a815efffcdd6d3a0b0a109648faae97ebb2a48eb6dbef2f8d09038e4ebee923e"
     },
     {
       "file": "models/site_tree_far.glb",
-      "bytes": 3206692
+      "bytes": 3206692,
+      "sha256": "068169a0cdae2ea9982f72ad19980edcf53f7d404e65a07cc8a56370d13092ab"
     },
     {
       "file": "models/site_tree_near.glb",
-      "bytes": 18622688
+      "bytes": 18622688,
+      "sha256": "42b4069b297fd7eb5fc294548dce83366cd8d097404b034438af425604c44ce2"
     },
     {
       "file": "models/site-tree-layout.json",
-      "bytes": 79879
+      "bytes": 79879,
+      "sha256": "a745a9a1ab62c921b647bae62638987599c02726b8e8d0636ddc3d0564b9799a"
     },
     {
       "file": "models/textures/bedroom-irradiance.exr",
-      "bytes": 10155861
+      "bytes": 10155861,
+      "sha256": "4381c95ce3ce143a38212b2fc9877698297ecd8d79cdb6532a391e8fca5c44cc"
     },
     {
       "file": "models/textures/hall-irradiance.exr",
-      "bytes": 27770564
+      "bytes": 25727857,
+      "sha256": "19829bc60db8e3a108500843a03454c24abe189907425b72f23e3bbd6d5494cd"
     },
     {
       "file": "models/textures/office-irradiance.exr",
-      "bytes": 10765286
+      "bytes": 10765286,
+      "sha256": "1b9813fe650bdcbb2e47e7cf6a71dea83b207e4641f5ac88688834c99a96b69b"
     },
     {
       "file": "models/visitor-realistic.glb",
-      "bytes": 4816724
+      "bytes": 4816724,
+      "sha256": "7ee6ebc215363750cecb6c7673363be475c8be5e007256bd4a777467d1d4f35d"
     },
     {
       "file": "models/yangjialing_exterior.glb",
-      "bytes": 13641536
+      "bytes": 13641536,
+      "sha256": "b3bccb4a07d03dca497c381138e812e7765cc12c995b2388cc39436420820f76"
     },
     {
       "file": "models/yangjialing_hall.glb",
-      "bytes": 65487220
+      "bytes": 65487220,
+      "sha256": "8d07cff5945b58491fde8c91696fa1c614c73bda94786f194ab8d1f493cd215b"
     },
     {
       "file": "models/yangjialing_lettering.glb",
-      "bytes": 26316584
+      "bytes": 26316584,
+      "sha256": "b0912782eab24855444f34ca98ef2ede08876293f604932a23f7a7b89b134e91"
     },
     {
       "file": "models/yangjialing-colliders.json",
-      "bytes": 10825
+      "bytes": 11532,
+      "sha256": "5f07a3aa6d0031ebb6b7f1a667db5fb59b6dbdb069efb552a059f5fe7364cddb"
+    },
+    {
+      "file": "models/yangjialing-pruned-trees.json",
+      "bytes": 541,
+      "sha256": "26c00ad8aeb2b65fde6bd2a49aca3df5543aa465d5a776999dedadf26cc00890"
+    },
+    {
+      "file": "models/yangjialing-tree-layout.json",
+      "bytes": 43682,
+      "sha256": "c6484200d66d0760c9a3589129244d3b908edbfbd0000c5754f201c40f5242eb"
     },
     {
       "file": "models/zaoyuan_bedroom.glb",
-      "bytes": 22688656
+      "bytes": 22688656,
+      "sha256": "aeb73ac0c47e5ae7ca59db7ca40579d2311e33c93519b7a7fb0b5801137803bb"
     },
     {
       "file": "models/zaoyuan_exterior.glb",
-      "bytes": 22758272
+      "bytes": 22758272,
+      "sha256": "cba4eef537a6275e6ae6f34ace2605487cdd042aaf0a309cc8ace8bf8b07aa6b"
     },
     {
       "file": "models/zaoyuan_guest.glb",
-      "bytes": 884080
+      "bytes": 884080,
+      "sha256": "b6b62cb3cc6b7bdd71a8471f25e39a54b087d0d7128f0a9323ed29875e115844"
     },
     {
       "file": "models/zaoyuan_office.glb",
-      "bytes": 23950516
+      "bytes": 23950516,
+      "sha256": "c7df3dd0a46e2258f061cb611cc1789e4fdaa69c62f1eb62fde3c76c315ab61f"
     },
     {
       "file": "models/zaoyuan_surroundings.glb",
-      "bytes": 21054144
+      "bytes": 21054144,
+      "sha256": "801fbfcc89844457eaba68db314501855efb931aeecf5a2b2c44947f8deee4cd"
     },
     {
       "file": "README.md",
-      "bytes": 404
+      "bytes": 404,
+      "sha256": "24bfb783f36ec27660a162d4fb625cc69b34966dd58d7e8683606f16eb466a24"
     },
     {
       "file": "references/site/sources.json",
-      "bytes": 3553
+      "bytes": 3550,
+      "sha256": "1bb52e94baf8263ba074f538894aee8ef4a4a0eb711cd6ad980eaa88be65de30"
+    },
+    {
+      "file": "release-version.json",
+      "bytes": 1675,
+      "sha256": "e7c5301dd0e8f6cd5fa0dfbf2406e1c5b91b41a7324623e828be53684df7d9b8"
     },
     {
       "file": "surface-version.json",
-      "bytes": 211
+      "bytes": 211,
+      "sha256": "218d015a5c9b0f5401bd074ed07c16ee86db6416d16752b1774ec63738210bb2"
     }
   ],
-  "totalBytes": 297317778,
+  "totalBytes": 317825690,
   "models": 15,
   "referencePhotosIncluded": 0,
   "sourceLinksRetained": true
