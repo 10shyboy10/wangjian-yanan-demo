@@ -1,6 +1,6 @@
 {
-  "release": "2026-10-22-entrance-daylight-music",
-  "created": "2026-10-21T23:39:44.754Z",
+  "release": "2026-10-24-reference-photos",
+  "created": "2026-10-24T09:23:50.514Z",
   "files": [
     {
       "file": ".nojekyll",
@@ -8,19 +8,19 @@
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
     },
     {
-      "file": "assets/index-C-jiYUbE.css",
-      "bytes": 14940,
-      "sha256": "19fb31946be9ccffb2462a39200e2b4ec82f16d059dc972f636d3d38bdf5ec1d"
+      "file": "assets/index-DKaNHJXm.js",
+      "bytes": 3727869,
+      "sha256": "2ddfc71d83f2b2d9bcf197e5f6151aeef79dea4e5a9c83e61a81180d5c74c067"
     },
     {
-      "file": "assets/index-JxsKi8f6.js",
-      "bytes": 3726265,
-      "sha256": "b3af4bb5db67c495dd779f65e69bfe67c24a17205c3b6f47df636301d420bbae"
+      "file": "assets/index-DyqJkOnp.css",
+      "bytes": 16534,
+      "sha256": "8d4fbfd8b97db1e08de4f8da7002bde426ddd6543e9fc2ae272c14549970aab3"
     },
     {
-      "file": "assets/LegacyPrototype-7Jr7s5pc.js",
+      "file": "assets/LegacyPrototype-D9GlNO1i.js",
       "bytes": 33795,
-      "sha256": "bc05dd33a7eed71f24026e2211f6076d2f0370b16c6a0aaffd5574855e23f03c"
+      "sha256": "ef6ee11dca0be280edea65a8bf86b540aa83b9aa70de7ea4959e242bf9499bc0"
     },
     {
       "file": "audio/reverie.mp3",
@@ -79,13 +79,13 @@
     },
     {
       "file": "evidence/zaoyuan-evidence.json",
-      "bytes": 12757,
-      "sha256": "db3342e368748767afa667fc67be38ef5dd1af65b6613fa651886b2b55156e6f"
+      "bytes": 12422,
+      "sha256": "1787516c58dfc6cf4f8d5c30e954612cab06d19736ae972de310644114fd13c0"
     },
     {
       "file": "index.html",
-      "bytes": 468,
-      "sha256": "071f9c41f66fa13d73ba64aa9508b4acf15daadb37ec7cb0218abb4137b8d3e4"
+      "bytes": 506,
+      "sha256": "e200d4b14f18728624a0254aa27cd5bb7212f8189a6555d372fdd67460426f74"
     },
     {
       "file": "licenses/music-reverie.txt",
@@ -149,8 +149,8 @@
     },
     {
       "file": "models/site-tree-layout.json",
-      "bytes": 79879,
-      "sha256": "a745a9a1ab62c921b647bae62638987599c02726b8e8d0636ddc3d0564b9799a"
+      "bytes": 76949,
+      "sha256": "4a0d90a06731a5ef46a27ce6cf538f0252446b9f5f5fb72d0f89cb9f47bf4b5a"
     },
     {
       "file": "models/textures/bedroom-irradiance.exr",
@@ -229,18 +229,78 @@
     },
     {
       "file": "README.md",
-      "bytes": 404,
-      "sha256": "24bfb783f36ec27660a162d4fb625cc69b34966dd58d7e8683606f16eb466a24"
+      "bytes": 745,
+      "sha256": "ea66424439f381e10058eefd63355335005765e22994ae02440a6d6ff6f2ad67"
+    },
+    {
+      "file": "references/optimized/hall-stage-user-reference.webp",
+      "bytes": 101644,
+      "sha256": "d1c08aaeb6c30345347975d0373ab063474aa5fa688ce81ea468158d99891666"
+    },
+    {
+      "file": "references/optimized/manifest.json",
+      "bytes": 3311,
+      "sha256": "cc636ace0ab1879c0db1a613a2ad9bffe9257c0eda3338650bdddfed0b8fd97f"
+    },
+    {
+      "file": "references/optimized/reference-03.webp",
+      "bytes": 168660,
+      "sha256": "d1f5b8b7b5a012cb9d120702b1d51698cf9aeb6e2fd19fb219d9f86738839578"
+    },
+    {
+      "file": "references/optimized/reference-10.webp",
+      "bytes": 46568,
+      "sha256": "834d3a205bfeeecccaffc1983d0aa12463d3d9474406dfb18dd622b0c06e0a00"
+    },
+    {
+      "file": "references/optimized/reference-20.webp",
+      "bytes": 21410,
+      "sha256": "b1420f130fc78e66d9f9b2ba31610bf911d37f485fcb49233d3029c309b54ae9"
+    },
+    {
+      "file": "references/optimized/reference-22.webp",
+      "bytes": 10364,
+      "sha256": "59a5e10c5ed41e6aaa3dba7273b0292a766d4e23c7b8144953e6d26011634232"
+    },
+    {
+      "file": "references/optimized/reference-23.webp",
+      "bytes": 29302,
+      "sha256": "0b7aad6f855930f30aaa02bc759a8f1b938c47ae49a6b5a7a73b545d8cc16332"
+    },
+    {
+      "file": "references/optimized/reference-24.webp",
+      "bytes": 30084,
+      "sha256": "6ae86440333c6f4aa7f52da12e4d84909417dfd66e3adbeb76192249400c6205"
+    },
+    {
+      "file": "references/optimized/reference-25.webp",
+      "bytes": 26134,
+      "sha256": "b2983cf41978e1053da83a8113a08891213407dac5ea90d6c72f0c089a0c71ca"
+    },
+    {
+      "file": "references/optimized/sohu-2024-hillside.webp",
+      "bytes": 202304,
+      "sha256": "af9bbe292d22a140933afff1f11062c9ef9717a41b7aa1243a95cf9a151cfe70"
+    },
+    {
+      "file": "references/optimized/sohu-2024-mao-courtyard.webp",
+      "bytes": 176978,
+      "sha256": "7f727c8d4059941513eddc92ca6b5373dff9ace25666e9e2a3047d1177fe6e65"
+    },
+    {
+      "file": "references/optimized/sohu-2024-terraces.webp",
+      "bytes": 257950,
+      "sha256": "8ca34e9a00a8ba8190c31fb7056c96f0697ed22fb8a6e6921c5eb61a1465db35"
     },
     {
       "file": "references/site/sources.json",
-      "bytes": 3550,
-      "sha256": "1bb52e94baf8263ba074f538894aee8ef4a4a0eb711cd6ad980eaa88be65de30"
+      "bytes": 3817,
+      "sha256": "163feaa0f7c4e1b16835843c929b0acb89416f2db522b4faabd3e62fcff80752"
     },
     {
       "file": "release-version.json",
-      "bytes": 1675,
-      "sha256": "e7c5301dd0e8f6cd5fa0dfbf2406e1c5b91b41a7324623e828be53684df7d9b8"
+      "bytes": 1449,
+      "sha256": "90fdac61df09f4bf7e4bc69e8c1ca022e5e16142a6994c2a49e5f98a0e3101aa"
     },
     {
       "file": "surface-version.json",
@@ -248,8 +308,7 @@
       "sha256": "218d015a5c9b0f5401bd074ed07c16ee86db6416d16752b1774ec63738210bb2"
     }
   ],
-  "totalBytes": 317825690,
-  "models": 15,
-  "referencePhotosIncluded": 0,
+  "totalBytes": 318900752,
+  "referencePhotosIncluded": 11,
   "sourceLinksRetained": true
 }

@@ -1,50 +1,39 @@
 {
-  "release": "2026-10-22-entrance-daylight-music",
-  "created": "2026-10-21T23:39:44.754Z",
+  "release": "2026-10-24-reference-photos",
+  "created": "2026-10-24T09:23:50.514Z",
   "site": "https://10shyboy10.github.io/wangjian-yanan-demo/",
+  "previousRelease": "2026-10-22-entrance-daylight-music",
+  "approvedLocalVersion": "2026-10-24-photo-review-local",
   "sources": [
     {
-      "file": "src/BlenderWorld.jsx",
-      "sha256": "f17975ee97783b6c68d6bd4e9b84580cf6e88b71d7245738ea5170bf1b01df48"
+      "file": "src/App.jsx",
+      "sha256": "fe3d2bfdcd74cae1a046d26d16f1eb8f7f0ee636b69294fe6a3a0848c984c165"
+    },
+    {
+      "file": "src/LandscapeSources.jsx",
+      "sha256": "062f350b608896fe1319b5d36096306c95fd8d147ccece40dcbe0aeb10fe9f5c"
     },
     {
       "file": "src/YangjialingWorld.jsx",
-      "sha256": "cf7afb06bc087145741d1cb35458f0488ec3171c7d522473d69980ee68ec5d5c"
+      "sha256": "c541408e5e680843a2dab91f35436f462b7670bd4f371c939f86f7e16a378cb2"
     },
     {
-      "file": "src/hall-entrance-geometry.js",
-      "sha256": "4d139c095aae17b0df0988a497bc5a7fd4fd79fd8299f38ce0131e74cd889434"
+      "file": "src/ReferencePhoto.jsx",
+      "sha256": "8a908ed5f2cbf582ad2a0000cb49b0dde272bfc94d185a49a01bf9bdd7d7f2a4"
     },
     {
-      "file": "src/HallLandscape.jsx",
-      "sha256": "9d78041590f3db4e473d16bdf131eb130700a5cdfbd47a2ba63041d1209cf13d"
+      "file": "src/asset-url.js",
+      "sha256": "336d2359613fd183374af46a6103eee5bb5eaa1c644a1ea91d6d635a914e94f9"
     },
     {
-      "file": "src/HallCypresses.jsx",
-      "sha256": "60c9cfa2ccf0a23c907cd96a7ec957ed0eea5d3eb71f85bb2adf322793e52240"
-    },
-    {
-      "file": "src/SiteVegetation.jsx",
-      "sha256": "403661a76327bffe6ae5b8b43ee2d9bcc7ed12997e678cf4a2f340fdbb27c3de"
-    },
-    {
-      "file": "src/BackgroundMusic.jsx",
-      "sha256": "bb13f64847d56ea159a25467fa6e0d1a37a25f3e63310d9df91e7b346c70c365"
-    },
-    {
-      "file": "src/HistoryContent.jsx",
-      "sha256": "3220ad8dc4b1b874616d0611a7e06d6c50a1327ee03c04668c2b7c0eddce6308"
-    },
-    {
-      "file": "src/ReviewCamera.jsx",
-      "sha256": "4effd0f02496273d46ee6072a833ac74c4d3731fd9e1d96afee4cf6122742386"
+      "file": "src/styles.css",
+      "sha256": "f79df027955b7a60a22256824e64a593d3508c79c714372b6c0d66f1edd4a5c3"
     }
   ],
   "changes": [
-    "Close both entrance wall gaps and align collision barriers",
-    "Window daylight and shadows",
-    "Courtyard landscape and tree improvements",
-    "Visitor floor alignment and historical guides",
-    "Reverie background music with attribution"
+    "Restore compressed reference photos in object, courtyard and auditorium information panels",
+    "Load reference photos on demand and enable click-to-enlarge with Escape navigation",
+    "Prevent duplicate project-path prefixes in shared asset loaders",
+    "Show object model loading status; preserve movement, guides and background music"
   ]
 }

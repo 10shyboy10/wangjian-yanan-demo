@@ -3,6 +3,7 @@
   "photos": [
     {
       "id": "sohu-2024-mao-courtyard.jpg",
+      "file": "/references/optimized/sohu-2024-mao-courtyard.webp",
       "title": "毛泽东旧居：五孔外立面、门前树池与屋后林冠",
       "url": "https://q2.itc.cn/images01/20240712/de7b6504856d4f638c3870c68bcedc31.jpeg",
       "source": "https://www.sohu.com/a/792876284_428863",
@@ -11,10 +12,12 @@
       "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
       "license": "未取得再发布授权；仅本地研究参考",
       "usage": "用于旧居院落可见植被与铺装参考",
-      "publicationNote": "Reference photo omitted; source article link retained."
+      "bytes": 176978,
+      "sha256": "7f727c8d4059941513eddc92ca6b5373dff9ace25666e9e2a3047d1177fe6e65"
     },
     {
       "id": "sohu-2024-hillside.jpg",
+      "file": "/references/optimized/sohu-2024-hillside.webp",
       "title": "枣园园区：幸福渠、园路、树木与草地",
       "url": "https://q3.itc.cn/images01/20240712/bc45f4a3d2244b4e89c44d7675b8a15a.jpeg",
       "source": "https://www.sohu.com/a/792876284_428863",
@@ -23,10 +26,12 @@
       "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
       "license": "未取得再发布授权；仅本地研究参考",
       "usage": "仅园区绿化氛围参考，不能证明此处紧邻毛泽东旧居",
-      "publicationNote": "Reference photo omitted; source article link retained."
+      "bytes": 202304,
+      "sha256": "af9bbe292d22a140933afff1f11062c9ef9717a41b7aa1243a95cf9a151cfe70"
     },
     {
       "id": "sohu-2024-terraces.jpg",
+      "file": "/references/optimized/sohu-2024-terraces.webp",
       "title": "枣园园区：五大书记雕像前的绿地",
       "url": "https://q8.itc.cn/images01/20240712/7d92a5c290a3452bb29114fc4232a39a.jpeg",
       "source": "https://www.sohu.com/a/792876284_428863",
@@ -35,7 +40,8 @@
       "credit": "文章署名：申威隆；照片水印：关中拍客；摄影权利归属未独立核实",
       "license": "未取得再发布授权；仅本地研究参考",
       "usage": "仅园区植物与草地参考；本轮不复制雕像或推断相对距离",
-      "publicationNote": "Reference photo omitted; source article link retained."
+      "bytes": 257950,
+      "sha256": "8ca34e9a00a8ba8190c31fb7056c96f0697ed22fb8a6e6921c5eb61a1465db35"
     }
   ],
   "additionalSources": [

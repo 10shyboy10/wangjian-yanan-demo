@@ -1,0 +1,83 @@
+{
+  "created": "2026-10-24T08:54:56.811Z",
+  "usage": "Compressed reference photographs; source filenames, attributions and existing resource notes retained. See the in-app source links and evidence records.",
+  "photos": [
+    {
+      "original": "/references/hall-stage-user-reference.png",
+      "file": "/references/optimized/hall-stage-user-reference.webp",
+      "originalBytes": 1084743,
+      "bytes": 101644,
+      "sha256": "d1c08aaeb6c30345347975d0373ab063474aa5fa688ce81ea468158d99891666"
+    },
+    {
+      "original": "/references/03_毛泽东旧居斜侧_中关村.jpg",
+      "file": "/references/optimized/reference-03.webp",
+      "originalBytes": 271320,
+      "bytes": 168660,
+      "sha256": "d1f5b8b7b5a012cb9d120702b1d51698cf9aeb6e2fd19fb219d9f86738839578"
+    },
+    {
+      "original": "/references/24_毛泽东旧居卧室_床铺侧面.jpg",
+      "file": "/references/optimized/reference-24.webp",
+      "originalBytes": 40781,
+      "bytes": 30084,
+      "sha256": "6ae86440333c6f4aa7f52da12e4d84909417dfd66e3adbeb76192249400c6205"
+    },
+    {
+      "original": "/references/20_毛泽东旧居卧室_床铺与书架.jpg",
+      "file": "/references/optimized/reference-20.webp",
+      "originalBytes": 148145,
+      "bytes": 21410,
+      "sha256": "b1420f130fc78e66d9f9b2ba31610bf911d37f485fcb49233d3029c309b54ae9"
+    },
+    {
+      "original": "/references/22_毛泽东旧居卧室_全景陈设.jpg",
+      "file": "/references/optimized/reference-22.webp",
+      "originalBytes": 15967,
+      "bytes": 10364,
+      "sha256": "59a5e10c5ed41e6aaa3dba7273b0292a766d4e23c7b8144953e6d26011634232"
+    },
+    {
+      "original": "/references/10_毛泽东旧居内景_生活陈设.jpg",
+      "file": "/references/optimized/reference-10.webp",
+      "originalBytes": 70174,
+      "bytes": 46568,
+      "sha256": "834d3a205bfeeecccaffc1983d0aa12463d3d9474406dfb18dd622b0c06e0a00"
+    },
+    {
+      "original": "/references/23_毛泽东旧居办公室_桌面与电话.jpg",
+      "file": "/references/optimized/reference-23.webp",
+      "originalBytes": 40858,
+      "bytes": 29302,
+      "sha256": "0b7aad6f855930f30aaa02bc759a8f1b938c47ae49a6b5a7a73b545d8cc16332"
+    },
+    {
+      "original": "/references/25_毛泽东旧居会客室_座椅.jpg",
+      "file": "/references/optimized/reference-25.webp",
+      "originalBytes": 36263,
+      "bytes": 26134,
+      "sha256": "b2983cf41978e1053da83a8113a08891213407dac5ea90d6c72f0c089a0c71ca"
+    },
+    {
+      "original": "/references/site/sohu-2024-mao-courtyard.jpg",
+      "file": "/references/optimized/sohu-2024-mao-courtyard.webp",
+      "originalBytes": 148960,
+      "bytes": 176978,
+      "sha256": "7f727c8d4059941513eddc92ca6b5373dff9ace25666e9e2a3047d1177fe6e65"
+    },
+    {
+      "original": "/references/site/sohu-2024-hillside.jpg",
+      "file": "/references/optimized/sohu-2024-hillside.webp",
+      "originalBytes": 167843,
+      "bytes": 202304,
+      "sha256": "af9bbe292d22a140933afff1f11062c9ef9717a41b7aa1243a95cf9a151cfe70"
+    },
+    {
+      "original": "/references/site/sohu-2024-terraces.jpg",
+      "file": "/references/optimized/sohu-2024-terraces.webp",
+      "originalBytes": 205440,
+      "bytes": 257950,
+      "sha256": "8ca34e9a00a8ba8190c31fb7056c96f0697ed22fb8a6e6921c5eb61a1465db35"
+    }
+  ]
+}
